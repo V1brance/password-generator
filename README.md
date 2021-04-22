@@ -14,11 +14,11 @@ Creating new passwords for websites can be a pain, especially with best practice
 
 An example password that has been generated with a length of 10 and both lowercase and numeric characters selected:
 
-![10 len, lower and numeric pass](/assets/lower_num_pass.png)
+![10 len, lower and numeric pass](./Assets/lower_num_pass.png)
 
 The screen that is displayed if no characters are selected:
 
-![No character selections text](/assets/no_selections.png)
+![No character selections text](./Assets/no_selections.png)
 
 ### Credits and Contributions
 
